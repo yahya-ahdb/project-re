@@ -1,0 +1,42 @@
+.navbar .navbar-nav .nav-link :hover
+{
+    color: rgb(0, 255, 0);
+    
+}
+.navbar .navbar-nav .nav-link
+{
+    padding: 0px 15px;
+    
+}
+.landing{
+    width: 100%;
+    background-image: url("../imges/back.png");
+    background-repeat:round;
+    background-attachment: fixed;
+   
+}
+.trans
+{
+    text-decoration: none;
+    color: blue;
+    background-color: rgb(43, 153, 226);
+    width: 35px;
+    height: 35px;
+    padding:1px 7px ;
+    border:   dotted;
+    border-radius:  25px;
+    
+    
+}
+#select-1
+{
+    border-radius: 25px;
+    
+    
+}
+.h4-flo
+{
+    border-bottom: 5px blue double ;
+    
+    
+}
